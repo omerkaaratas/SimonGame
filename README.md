@@ -8,6 +8,7 @@ This is a digital implementation of the classic memory game "Simon". In this gam
 
 
 How to Play
+
 Press the any button to begin a new game.
 The computer will flash a sequence of colors.
 Repeat the sequence by clicking on the colored buttons in the same order.
@@ -19,6 +20,7 @@ If you make a mistake, the game is over.
 
 
 Features
+
 Randomly generated sequences of colors.
 Gradually increasing difficulty as the game progresses.
 Sound effects to indicate correct and incorrect selections.
@@ -29,12 +31,15 @@ A "strict mode" option which resets the game to the beginning if a mistake is ma
 
 
 Technologies Used
+
 This game was built using HTML, CSS, and JavaScript with Jquery library.
 
 How to Contribute
+
 Contributions to the game are welcome! If you would like to make a contribution, please fork this repository and submit a pull request with your changes.
 
 Credits
+
 This game was originally created by Ralph H. Baer and Howard J. Morrison in 1978. This implementation was created by Omer Karatas.
 
 
