@@ -8,6 +8,9 @@ var started = false;
 
 var level = 0;
 
+var input = document.getElementById("myInput");
+input.focus();
+
 //Keypress Function 
 $(document).keypress(function() {
   if (!started) {
