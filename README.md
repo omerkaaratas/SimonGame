@@ -1,5 +1,6 @@
 # SimonGame
 
+Simon Game live website: https://omerkaaratas.github.io/SimonGame/
 
 This is a digital implementation of the classic memory game "Simon". In this game, the computer will randomly select a sequence of colors, and the player must repeat that sequence back to the computer. As the game progresses, the sequence becomes longer and more difficult to remember.
 
