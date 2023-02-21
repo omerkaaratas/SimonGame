@@ -35,7 +35,7 @@ How to Contribute
 Contributions to the game are welcome! If you would like to make a contribution, please fork this repository and submit a pull request with your changes.
 
 Credits
-This game was originally created by Ralph H. Baer and Howard J. Morrison in 1978. This implementation was created by [Omer Karatas].
+This game was originally created by Ralph H. Baer and Howard J. Morrison in 1978. This implementation was created by Omer Karatas.
 
 
 
