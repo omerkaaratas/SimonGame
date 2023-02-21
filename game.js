@@ -8,8 +8,9 @@ var started = false;
 
 var level = 0;
 
-var input = document.getElementById("myInput");
-input.focus();
+function openKeyboard() {
+  var input = document.getElementById("myInput");
+  input.focus();
 
 //Keypress Function 
 $(document).keypress(function() {
