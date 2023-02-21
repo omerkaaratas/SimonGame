@@ -11,6 +11,7 @@ var level = 0;
 function openKeyboard() {
   var input = document.getElementById("myInput");
   input.focus();
+}
 
 //Keypress Function 
 $(document).keypress(function() {
