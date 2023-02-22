@@ -8,14 +8,6 @@ var started = false;
 
 var level = 0;
 
-$(function(){
-  
-$("#txtSearchProdAssign").keyup(function (e) {
-  if (e.which == 13) {
-    $('input[name="butAssignProd"]').trigger('click');
-  }
- });
-});
 
 //Keypress Function 
 $(document).keypress(function() {
