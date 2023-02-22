@@ -22,6 +22,15 @@ $(document).keypress(function() {
   }
 });
 
+// Click the enter key button 
+$(document).ready(function() {
+  $("#myButton").click(function() {
+    var event = $.Event('keypress');
+    event.which = 13;
+    $("#myInput").trigger(event);
+  });
+});
+
 
 
 //Click button function//
